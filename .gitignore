@@ -1,0 +1,16 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+# Generated model binaries and local caches
+*.joblib
+*.pkl
+.pytest_cache/
+# Rerun output directories
+nav15/reproduction*/
+nav15/*_reproduction/
+# Operating system metadata
+.DS_Store
